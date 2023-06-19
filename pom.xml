@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>TheCornelis Inc</name>
+		<url>http://thecornelis.com/</url>
 	</organization>
 
 	<properties>
@@ -94,8 +94,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.2.251.34:8081/inc/repository/tesler-webapp-release/</url>
+	      <name>Thecornelis Releases Nexus Repository</name>
+	      <url>http://52.2.251.34:8081/inc/repository/app-webapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
